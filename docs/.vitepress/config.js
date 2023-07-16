@@ -1,6 +1,6 @@
 export default {
   title: '码路芽子', // 博客的标题
-  description: 'mlyz 的个人博客', // 博客的介绍
+  description: 'csuxzy的个人博客', // 博客的介绍
   base: '/',
   themeConfig: {
       logo: "/images/logo.png", // 页面上显示的logo
